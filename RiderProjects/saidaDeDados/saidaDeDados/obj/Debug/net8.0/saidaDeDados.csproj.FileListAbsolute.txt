@@ -1,0 +1,14 @@
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/bin/Debug/net8.0/saidaDeDados
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/bin/Debug/net8.0/saidaDeDados.deps.json
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/bin/Debug/net8.0/saidaDeDados.runtimeconfig.json
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/bin/Debug/net8.0/saidaDeDados.dll
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/bin/Debug/net8.0/saidaDeDados.pdb
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.AssemblyInfoInputs.cache
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.AssemblyInfo.cs
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.csproj.CoreCompileInputs.cache
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.dll
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/refint/saidaDeDados.dll
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.pdb
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/saidaDeDados.genruntimeconfig.cache
+/Users/heliobatalha/RiderProjects/saidaDeDados/saidaDeDados/obj/Debug/net8.0/ref/saidaDeDados.dll
