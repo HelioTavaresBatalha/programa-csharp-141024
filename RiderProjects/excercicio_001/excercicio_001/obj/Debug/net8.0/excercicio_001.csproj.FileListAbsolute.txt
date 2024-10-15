@@ -1,0 +1,15 @@
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.AssemblyInfoInputs.cache
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.AssemblyInfo.cs
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.csproj.CoreCompileInputs.cache
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.sourcelink.json
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/bin/Debug/net8.0/excercicio_001
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/bin/Debug/net8.0/excercicio_001.deps.json
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/bin/Debug/net8.0/excercicio_001.runtimeconfig.json
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/bin/Debug/net8.0/excercicio_001.dll
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/bin/Debug/net8.0/excercicio_001.pdb
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.dll
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/refint/excercicio_001.dll
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.pdb
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/excercicio_001.genruntimeconfig.cache
+/Users/heliobatalha/RiderProjects/excercicio_001/excercicio_001/obj/Debug/net8.0/ref/excercicio_001.dll
