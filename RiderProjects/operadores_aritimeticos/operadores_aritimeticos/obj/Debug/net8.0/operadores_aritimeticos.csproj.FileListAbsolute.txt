@@ -1,0 +1,15 @@
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/bin/Debug/net8.0/operadores_aritimeticos
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/bin/Debug/net8.0/operadores_aritimeticos.deps.json
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/bin/Debug/net8.0/operadores_aritimeticos.runtimeconfig.json
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/bin/Debug/net8.0/operadores_aritimeticos.dll
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/bin/Debug/net8.0/operadores_aritimeticos.pdb
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.AssemblyInfoInputs.cache
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.AssemblyInfo.cs
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.csproj.CoreCompileInputs.cache
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.sourcelink.json
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.dll
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/refint/operadores_aritimeticos.dll
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.pdb
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/operadores_aritimeticos.genruntimeconfig.cache
+/Users/heliobatalha/RiderProjects/operadores_aritimeticos/operadores_aritimeticos/obj/Debug/net8.0/ref/operadores_aritimeticos.dll
